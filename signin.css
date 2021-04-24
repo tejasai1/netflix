@@ -1,0 +1,90 @@
+﻿
+.signin
+
+{
+background-color:red;
+position:absolute;
+color:#fff;
+margin-top:30px;
+font-size:18px;
+border-radius:10px;
+border:none;
+padding:8 21px;
+margin-left:1350px;
+margin-top:-600px;
+}
+.emailbox{
+position:absolute;
+margin-left:50px;
+margin-top:-200px;
+}
+
+
+.emailbox input[type="text"] 
+{ 
+
+   color: black;  
+   font-size: 20px;
+   align: center;
+   margin-left:460px;
+   padding: 15px 100px  15px 15px;
+   margin-top:50px;
+   
+   
+}
+
+.emailbox input[type="submit"]
+{
+   
+   background: red;
+   color: #fff;
+   font-size: 20px;
+   align: center;
+   border: none;
+   padding: 15px 15px ;
+margin-top:-70px
+}
+.emailbox h4{
+position:absolute;
+text-align: center;
+font-size: 25px;
+margin-left:400px;
+}
+
+.emailbox1 input[type="text"] 
+{ 
+
+   color: black;  
+   font-size: 20px;
+   align: center;
+   margin-left:460px;
+   padding: 15px 100px  15px 15px;
+   margin-top:50px;
+   
+   
+}
+
+.emailbox1 input[type="submit"]
+{
+   
+   background: red;
+   color: #fff;
+   font-size: 20px;
+   align: center;
+   border: none;
+   padding: 15px 15px ;
+margin-top:-70px
+}
+.emailbox1 h4{
+position:absolute;
+text-align: center;
+font-size: 25px;
+margin-left:400px;
+}
+.netflix{
+color:red;
+position:absolute;
+margin-top:-570px;
+margin-left:55px;
+font-size:45px;
+}
